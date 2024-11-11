@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3A98A759-2838-22BD-5FF9-74FCC110246D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/script/Loading.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.ammariqais.skiaforunity/SkiaSharp-Bindings/SKMatrix44.cs" Line="474" Column="1" />
+      <File FileName="Assets/Game/script/Loading.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Word Collector" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Game" expanded="True">
+                <Node name="script" expanded="True">
+                  <Node name="Loading.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c494869-755c-4796-b08b-5e89a27169d7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
